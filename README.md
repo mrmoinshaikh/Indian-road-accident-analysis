@@ -17,12 +17,8 @@ To analyze the road accident dataset and apply machine learning models to classi
 
 ## 🗂️ Dataset Overview
 
-- **Source**: [Dataset not specified, placeholder]
+- **Source**: Kaggle
 - **Rows**: ~3000
-- **Features Used for Modeling**:
-  - `State_Name`
-  - `Driver_seat`
-  - `Speed_limit`
 
 ---
 
@@ -42,13 +38,6 @@ To analyze the road accident dataset and apply machine learning models to classi
 - Checked for missing values and data imbalance
 - Visualized distributions of severity by features
 - Encoded categorical variables for ML compatibility
-
----
-
-
----
-
-## 📁 Project Structure
 
 
 ---
